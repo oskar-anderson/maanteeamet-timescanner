@@ -1,0 +1,18 @@
+# This file contains default config settings
+# Please copy and rename this file to 'userdata.yaml' without '-default'
+
+# Google account email for account that has less than secured apps enabled
+"sender_email_address": ""
+
+# Google account password for account that has less than secured apps enabled
+"sender_password": ""
+
+# Email address that will receive the notification
+"receiver_email": ""
+
+# Will be used to filter times that are between current time and this
+# Format DD.MM.YYYY
+"exam_before": "01.02.2021"
+
+# Take out cities that you do not want to take exam in. Coma is separator
+"good_cities": "Tartu, Kuressaare, Viljandi, Pärnu, Võru, Rakvere, Tallinn, Paide, Haapsalu, Narva, Jõhvi"
